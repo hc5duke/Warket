@@ -1,0 +1,2 @@
+class Warket
+end

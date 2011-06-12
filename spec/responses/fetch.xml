@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<a:feed xmlns:a="http://www.w3.org/2005/Atom" xmlns:os="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://schemas.zune.net/catalog/apps/2008/02">
+  <a:link rel="self" type="application/atom+xml" href="/v3.2/en-US/apps/ea9a24ad-d2d1-df11-9eae-00237de2db9e?store=Zest&amp;clientType=WinMobile+7.0"/>
+  <a:updated>2011-06-09T22:23:02.5360637Z</a:updated>
+  <a:title type="text">Bejeweled™ LIVE </a:title>
+  <a:id>urn:uuid:ea9a24ad-d2d1-df11-9eae-00237de2db9e</a:id>
+  <a:content type="html">The world's #1 puzzle game is coming to Windows Phone 7!  Swap, move and match multiple gems for dazzling, high-carat fun.  Show off your Bejeweled® prowess by earning special Xbox LIVE achievements and climb up global Xbox LIVE leaderboards.</a:content>
+  <sortTitle>Bejeweled™ LIVE </sortTitle>
+  <releaseDate>2010-10-08T06:41:01.34Z</releaseDate>
+  <visibilityStatus>Live</visibilityStatus>
+  <shortDescription>Classic high-carat fun!</shortDescription>
+  <publisher>PopCap Games</publisher>
+  <averageUserRating>8.526316</averageUserRating>
+  <userRatingCount>380</userRatingCount>
+  <averageLastInstanceUserRating>8.599119</averageLastInstanceUserRating>
+  <lastInstanceUserRatingCount>227</lastInstanceUserRatingCount>
+  <image>
+    <id>urn:uuid:6654ae46-2024-4093-88b0-6ed3ef83507f</id>
+  </image>
+  <screenshots>
+    <screenshot>
+      <id>urn:uuid:bcb63159-9959-42cb-8671-ee0f2bbc3f22</id>
+    </screenshot>
+    <screenshot>
+      <id>urn:uuid:ea50e2a6-ef12-49fc-91fa-5b8b1c7e4611</id>
+    </screenshot>
+    <screenshot>
+      <id>urn:uuid:b95519c8-bce4-4335-b89d-67e65fc12955</id>
+    </screenshot>
+    <screenshot>
+      <id>urn:uuid:05b6947c-af76-42ab-bfff-70cac2e4e32c</id>
+    </screenshot>
+    <screenshot>
+      <id>urn:uuid:cd7e34c1-08f9-4255-a04a-cce90847a2a7</id>
+    </screenshot>
+    <screenshot>
+      <id>urn:uuid:b8faafac-c2ed-473c-afbc-05b5046031b7</id>
+    </screenshot>
+    <screenshot>
+      <id>urn:uuid:cff20900-584c-4f4d-8af2-5af618652a88</id>
+    </screenshot>
+    <screenshot>
+      <id>urn:uuid:ab65fb79-7c43-46fd-becb-bcf73f3254bc</id>
+    </screenshot>
+  </screenshots>
+  <categories>
+    <category>
+      <id>windowsphone.games</id>
+      <title>Games</title>
+      <isRoot>True</isRoot>
+    </category>
+    <category>
+      <id>windowsphone.boardandclassic</id>
+      <title>Board &amp; Classic</title>
+      <isRoot>False</isRoot>
+      <parentId>windowsphone.games</parentId>
+    </category>
+  </categories>
+  <tags>
+    <tag>apptag.premium</tag>
+  </tags>
+  <offers>
+    <offer>
+      <offerId>urn:uuid:44c0ee66-77af-478a-b3ae-5ab0086be9ae</offerId>
+      <mediaInstanceId>urn:uuid:22d9ea5e-6609-e011-9264-00237de2db9e</mediaInstanceId>
+      <clientTypes>
+        <clientType>WinMobile 7.0</clientType>
+      </clientTypes>
+      <paymentTypes>
+        <paymentType>Credit Card</paymentType>
+        <paymentType>Mobile Operator</paymentType>
+      </paymentTypes>
+      <store>Zest</store>
+      <price>0</price>
+      <displayPrice>$0.00</displayPrice>
+      <priceCurrencyCode>USD</priceCurrencyCode>
+      <licenseRight>Trial</licenseRight>
+      <expiration>2099-01-01T00:00:00Z</expiration>
+    </offer>
+    <offer>
+      <offerId>urn:uuid:15b886e4-d066-485f-9a30-a0880f3c674b</offerId>
+      <mediaInstanceId>urn:uuid:22d9ea5e-6609-e011-9264-00237de2db9e</mediaInstanceId>
+      <clientTypes>
+        <clientType>WinMobile 7.0</clientType>
+      </clientTypes>
+      <paymentTypes>
+        <paymentType>Credit Card</paymentType>
+        <paymentType>Mobile Operator</paymentType>
+      </paymentTypes>
+      <store>Zest</store>
+      <price>4.99</price>
+      <displayPrice>$4.99</displayPrice>
+      <priceCurrencyCode>USD</priceCurrencyCode>
+      <licenseRight>Purchase</licenseRight>
+      <expiration>2099-01-01T00:00:00Z</expiration>
+    </offer>
+  </offers>
+  <backgroundImage>
+    <id>urn:uuid:8f7ab547-e015-4592-a5de-12d6cc354284</id>
+  </backgroundImage>
+  <publisherId>PopCap Games</publisherId>
+  <a:entry>
+    <a:updated>2011-06-09T22:23:02.5360637Z</a:updated>
+    <a:title type="text">Bejeweled™ LIVE  1.1.0.0</a:title>
+    <a:id>urn:uuid:22d9ea5e-6609-e011-9264-00237de2db9e</a:id>
+    <version>1.1.0.0</version>
+    <url>http://apps.marketplace.windowsphone.com/F51DA78B-9C47-4036-A9AC-FBEE10C16709/CurrentBinary.xap</url>
+    <packageSize>48029696</packageSize>
+    <installSize>64688128</installSize>
+    <clientTypes>
+      <clientType>WinMobile 7.0</clientType>
+      <clientType>WinMobile 7.1</clientType>
+    </clientTypes>
+    <supportedLanguages>
+      <supportedLanguage>Deutsch</supportedLanguage>
+      <supportedLanguage>English</supportedLanguage>
+      <supportedLanguage>Español</supportedLanguage>
+      <supportedLanguage>Français</supportedLanguage>
+      <supportedLanguage>Italiano</supportedLanguage>
+    </supportedLanguages>
+    <deviceCapabilities>&lt;capability&gt;&lt;id&gt;ID_CAP_GAMERSERVICES&lt;/id&gt;&lt;string&gt;Xbox LIVE&lt;/string&gt;&lt;disclosure&gt;Disclose&lt;/disclosure&gt;&lt;/capability&gt;&lt;capability&gt;&lt;id&gt;ID_CAP_MEDIALIB&lt;/id&gt;&lt;string&gt;media library&lt;/string&gt;&lt;disclosure&gt;Disclose&lt;/disclosure&gt;&lt;/capability&gt;&lt;capability&gt;&lt;id&gt;ID_CAP_NETWORKING&lt;/id&gt;&lt;string&gt;data connection&lt;/string&gt;&lt;disclosure&gt;Disclose&lt;/disclosure&gt;&lt;/capability&gt;</deviceCapabilities>
+    <averageLastInstanceUserRating>8.599119</averageLastInstanceUserRating>
+    <lastInstanceUserRatingCount>227</lastInstanceUserRatingCount>
+  </a:entry>
+  <a:author>
+    <a:name>Microsoft Corporation</a:name>
+  </a:author>
+</a:feed>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<a:feed xmlns:a="http://www.w3.org/2005/Atom" xmlns:os="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://schemas.zune.net/catalog/2008/3">
+  <a:link rel="self" type="application/atom+xml" href="/v3.2/en-US?prefix=pac-man&amp;includeAlbums=true&amp;includeApplications=true&amp;includeArtists=true&amp;includeMovies=true&amp;includeMusicVideos=true&amp;includePodcasts=true&amp;includeTracks=true&amp;includeTVSeries=true&amp;includeVideoShorts=true&amp;isActionable=false&amp;chunkSize=10"/>
+  <a:updated>2011-06-09T18:52:04.4690301Z</a:updated>
+  <a:title type="text">List Of Items</a:title>
+  <a:id>tag:catalog.zune.net,2011-06-09:/</a:id>
+  <a:entry>
+    <a:updated>2011-06-09T18:52:04.4846301Z</a:updated>
+    <a:title type="text">The Greatest Pac-Man Victory In History</a:title>
+    <a:id>urn:uuid:db742b00-0100-11db-89ca-0019b92a3933</a:id>
+    <type>Track</type>
+    <score>82.78477</score>
+  </a:entry>
+  <a:entry>
+    <a:updated>2011-06-09T18:52:04.4846301Z</a:updated>
+    <a:title type="text">Pac-Man Fever</a:title>
+    <a:id>urn:uuid:67b51400-0500-11db-89ca-0019b92a3933</a:id>
+    <type>Track</type>
+    <score>78.04507</score>
+  </a:entry>
+  <a:entry>
+    <a:updated>2011-06-09T18:52:04.4846301Z</a:updated>
+    <a:title type="text">Pac-Man Fever</a:title>
+    <a:id>urn:uuid:e0915500-0500-11db-89ca-0019b92a3933</a:id>
+    <type>Track</type>
+    <score>77.34701</score>
+  </a:entry>
+  <a:entry>
+    <a:updated>2011-06-09T18:52:04.4846301Z</a:updated>
+    <a:title type="text">Pac-Man</a:title>
+    <a:id>urn:uuid:03dab786-7cfc-499e-a376-2ebe3831f6d0</a:id>
+    <type>Series</type>
+    <score>75.92632</score>
+  </a:entry>
+  <a:entry>
+    <a:updated>2011-06-09T18:52:04.4846301Z</a:updated>
+    <a:title type="text">PAC-MAN ™</a:title>
+    <a:id>urn:uuid:cc34c74c-780a-e011-9264-00237de2db9e</a:id>
+    <type>Application</type>
+    <score>72.9752</score>
+  </a:entry>
+  <a:entry>
+    <a:updated>2011-06-09T18:52:04.4846301Z</a:updated>
+    <a:title type="text">Pac-Man Fever</a:title>
+    <a:id>urn:uuid:5171f800-0100-11db-89ca-0019b92a3933</a:id>
+    <type>Track</type>
+    <score>71.40043</score>
+  </a:entry>
+  <a:entry>
+    <a:updated>2011-06-09T18:52:04.4846301Z</a:updated>
+    <a:title type="text">Pac-Man Fever</a:title>
+    <a:id>urn:uuid:7846ce06-0100-11db-89ca-0019b92a3933</a:id>
+    <type>Album</type>
+    <score>71.22253</score>
+  </a:entry>
+  <a:entry>
+    <a:updated>2011-06-09T18:52:04.4846301Z</a:updated>
+    <a:title type="text">PAC-MAN™ Championship Edition DX </a:title>
+    <a:id>urn:uuid:34bbb588-4a74-e011-81d2-78e7d1fa76f8</a:id>
+    <type>Application</type>
+    <score>70.98782</score>
+  </a:entry>
+  <a:entry>
+    <a:updated>2011-06-09T18:52:04.4846301Z</a:updated>
+    <a:title type="text">Word Blast</a:title>
+    <a:id>urn:uuid:8f9a80f4-f675-e011-81d2-78e7d1fa76f8</a:id>
+    <type>Application</type>
+    <score>70.00213</score>
+  </a:entry>
+  <a:entry>
+    <a:updated>2011-06-09T18:52:04.4846301Z</a:updated>
+    <a:title type="text">Atari 2600 Roms</a:title>
+    <a:id>urn:uuid:ed6e5f15-b271-e011-81d2-78e7d1fa76f8</a:id>
+    <type>Application</type>
+    <score>70.0007</score>
+  </a:entry>
+  <a:author>
+    <a:name>Microsoft Corporation</a:name>
+  </a:author>
+</a:feed>
